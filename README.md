@@ -1,5 +1,7 @@
 # BRA-Addons-Sounds
 
+We will not upload the addons and keys folder on git to avoid unauthorized redistribution. All the data are on the Steam Workshop regularized by the Steam Workshop Agreements and the GNU General Public License.
+
 # Info
 
 Mod created by and for the Italian MilSim Clan Brigata Ricognitori Alpini.
