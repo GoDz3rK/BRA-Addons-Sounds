@@ -25,4 +25,4 @@ Thanks to Aeren for the permision to use his addons:
 
 # License
 
-BRA Addons is licensed under the GNU General Public License [(GPLv3)](https://github.com/GoDz3rK/BRA-Addons/blob/main/LICENSE).
+BRA Addons is licensed under the GNU General Public License [(GPLv3)](https://github.com/GoDz3rK/BRA-Addons-Sounds/blob/main/LICENSE).
