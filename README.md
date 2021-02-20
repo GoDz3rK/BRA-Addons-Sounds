@@ -8,6 +8,7 @@ Mod created by and for the Italian MilSim Clan Brigata Ricognitori Alpini.
 Contains addons and compatibility patches to free the normal Arma 3 server mod slot limit.
 
 Please don't use this mod if you are not a BRA member. Instead download and use the original addons to support the creators.
+Obviously the pbos of the original mods have not been touched.
 
 Thanks for understanding!
 
